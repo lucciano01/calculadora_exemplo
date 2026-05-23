@@ -8,4 +8,7 @@ public class Calculadora {
         return a*b;
 
     }
+    public void dividir(int a, int b){
+        System.out.println(a/b);
+    }
 }
